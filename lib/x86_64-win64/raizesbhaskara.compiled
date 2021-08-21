@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1313017496"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\cliente\Desktop\Charleston cursos tecnologos\ADS\Charleston logica de programaçao\exercicios lista 5\E - bhaskara\lib\x86_64-win64&quot; &quot;-FuC:\Users\cliente\Desktop\Charleston cursos tecnologos\ADS\Charleston logica de programaçao\exercicios lista 5\E - bhaskara\&quot; &quot;-FUC:\Users\cliente\Desktop\Charleston cursos tecnologos\ADS\Charleston logica de programaçao\exercicios lista 5\E - bhaskara\lib\x86_64-win64\&quot; &quot;-FEC:\Users\cliente\Desktop\Charleston cursos tecnologos\ADS\Charleston logica de programaçao\exercicios lista 5\E - bhaskara\&quot; &quot;-oC:\Users\cliente\Desktop\Charleston cursos tecnologos\ADS\Charleston logica de programaçao\exercicios lista 5\E - bhaskara\raizesbhaskara.exe&quot; raizesbhaskara.pas"/>
+</CONFIG>
